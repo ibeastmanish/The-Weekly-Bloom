@@ -1,1 +1,1 @@
-Weekly blogs for mindbloom
+Weekly blogs for project mindbloom
